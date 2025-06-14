@@ -78,16 +78,4 @@ Build a machine learning system that predicts the *level of liver damage* (cirrh
 - Liver_Cirrhosis_Prediction_using_KNN_LogisticRegression&RandomForest.ipynb: Code notebook with preprocessing, training, and evaluation
 - README.md: Project documentation
 
----
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repo
-git clone <your-repo-link>
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the notebook
-jupyter notebook Liver_Cirrhosis_Prediction_using_KNN_LogisticRegression&RandomForest.ipynb
